@@ -171,16 +171,6 @@ Contribuições são bem-vindas! Se você:
 **Faça um fork e abra um Pull Request!**
 
 ---
-
-## 👨‍💻 Autor
-
-**[Seu Nome]**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Perfil](https://linkedin.com/in/seu-perfil)
-- Email: seuemail@exemplo.com
-
----
-
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
